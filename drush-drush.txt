@@ -2,5 +2,22 @@
 * "Drush Drush" - a parody of "Rush Rush" by Paula Abdul
 */
 
+You're the one to build my local, please 
+dl, site-install, it's such a breeze
+What I'm saying is my prompt's for you
+
+Core-status, make Drupal's version show
+You run make-generate
+And watch the makefile grow
+
+I'm gonna run utilities
+I'm gonna run my cron hooks through you
+List my queues, run my queues,
+Oh baby baby please!
+
 Drush, drush, hurry hurry updates come to me
-Drush, drush, I wanna clear cache, I wanna clear cache easily
+Drush, drush, I wanna clear cache, 
+I wanna clear cache easily
+Drush, drush, gonna omit .git directory
+Drush, drush, ooh, archive-dump my tree
+
