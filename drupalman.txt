@@ -1,0 +1,6 @@
+Sung to: Piano Man by Billy Joel
+
+It's 5:00 on a Friday,
+the regular bugs got me down.
+Got a PDOException from my SQLSTATE,
+Base table or view is not found.
