@@ -1,0 +1,20 @@
+/*
+* "Tpl.php" - a parody of "Peacock" by Katy Perry 
+*/
+
+I wanna theme your tpl.php, php
+Your tpl.php
+Your tpl.php, php
+Your tpl.php
+I wanna theme your tpl.php, php
+Your tpl.php
+Your tpl.php, php
+Your tpl.php
+
+Word on the street, you've got data to show me, me
+_preprocess_page(&$vars), gonna dump your menu tree
+Add a class or id,  wrap it in a <div> or three
+Come on baby let me see
+dpm() those vars for me
+
+
